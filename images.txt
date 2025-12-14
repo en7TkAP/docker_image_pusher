@@ -12,7 +12,7 @@ sissbruecker/linkding:latest
 couchdb
 mysql:latest
 neosmemo/memos:latest
-joyqi/typecho:latest
+# joyqi/typecho:latest  ？
 deluan/navidrome:latest
 ghcr.io/huginn/huginn:latest
 ghcr.io/koodo-reader/koodo-reader:master
