@@ -16,3 +16,4 @@ neosmemo/memos:latest
 deluan/navidrome:latest
 ghcr.io/huginn/huginn:latest
 ghcr.io/koodo-reader/koodo-reader:master
+gitea/gitea
