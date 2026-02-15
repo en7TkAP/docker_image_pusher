@@ -24,6 +24,11 @@ jobs:
         df -hT
         echo "=============================================================================="
 
+    # GitHub Actions to Free Disk Space on Ubuntu runners
+    # https://github.com/marketplace/actions/free-disk-space-ubuntu
+    - name: Free Disk Space (Ubuntu)
+      uses: jlumbroso/free-disk-space@v1.3.1
+  
     # 增加可用磁盘空间
     - name: Maximize build space
       uses: easimon/maximize-build-space@master
